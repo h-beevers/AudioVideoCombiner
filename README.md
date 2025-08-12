@@ -11,7 +11,8 @@ A Windows app that merges a video file (e.g., .mp4) with an audio track (e.g., .
 ### How to Use
 
 1. **Download & Extract**
-   - Unzip the folder and run: `video_audio_combiner.exe`
+   - Unzip the folder and run: `AudioVideoCombiner.exe
+`
 2. **Select Your Files**
    - Choose a video file (MP4 recommended)
    - Choose an audio file (MP3, AAC, or WAV)
